@@ -1,0 +1,9 @@
+{  // Opens the ENTIRE repository map index
+  "shrug-replacer": {  // 2. Opens the specific data profile for your plugin
+    "name": "Shrug Text Replacer",
+    "description": "Automatically converts !shrug into ASCII art.",
+    "authors": [{ "name": "You" }],
+    "version": "1.0.0",
+    "main": "shrug.js"
+  }  // CLOSES the plugin data profile
+}  // CLOSES the entire repository map index
