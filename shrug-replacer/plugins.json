@@ -1,7 +1,0 @@
-{
-    "name": "Shrug Text Replacer",
-    "description": "Converts !shrug into the classic ASCII art layout.",
-    "authors": [{ "name": "You" }],
-    "version": "1.0.0",
-    "main": "index.js"
-}
