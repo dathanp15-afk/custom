@@ -1,0 +1,9 @@
+{
+  "shrug-replacer": {
+    "name": "Shrug Text Replacer",
+    "description": "Automatically converts !shrug into ASCII art.",
+    "authors": [{ "name": "You" }],
+    "version": "1.0.0",
+    "main": "shrug.js"
+  }
+}
